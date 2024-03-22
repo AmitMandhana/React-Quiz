@@ -1,0 +1,33 @@
+/* App.css */
+.background {
+  background-image: linear-gradient(to right, #7F7FD5, #86A8E7, #91EAE4);
+  height: 100vh;
+}
+
+.card {
+  width: 400px;
+  background-color:linear-gradient(to right, #09585e, #6bdfc2, #91EAE4);
+}
+
+.card-body {
+  padding: 30px;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  color: #333333;
+}
+
+.card-text {
+  font-size: 1.4rem;
+  color: #555555;
+}
+
+.btn {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
